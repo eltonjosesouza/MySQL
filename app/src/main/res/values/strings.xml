@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PHPMYSQL</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Username">Usuário</string>
+    <string name="Password">Senha</string>
+    <string name="LoginGet">Login - Get</string>
+    <string name="LoginPost">Login - Post</string>
+    <string name="App">Aplicação de login</string>
+    <string name="LoginStatus">Status</string>
+    <string name="LoginRole">Papel</string>
+    <string name="Status">Não logado</string>
+    <string name="Role">Sem Atribuição</string>
+    <string name="method">Método do Login</string>
+    <string name="Choose">Escolha um método</string>
+</resources>
